@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "temperatura": 22,
+    "fechaHora": "2024-07-01T23:02:07.024Z"
+  },
+  {
+    "id": 2,
+    "temperatura": 54,
+    "fechaHora": "2024-07-01T23:02:26.877Z"
+  },
+  {
+    "id": 3,
+    "temperatura": 76,
+    "fechaHora": "2024-07-01T23:02:34.213Z"
+  },
+  {
+    "id": 4,
+    "temperatura": 12,
+    "fechaHora": "2024-07-01T23:02:39.363Z"
+  },
+  {
+    "id": 5,
+    "temperatura": 17,
+    "fechaHora": "2024-07-01T23:02:42.957Z"
+  },
+  {
+    "id": 5,
+    "temperatura": -20,
+    "fechaHora": "2024-07-01T23:28:43.930Z"
+  },
+  {
+    "id": 2,
+    "temperatura": 88,
+    "fechaHora": "2024-07-01T23:46:47.375Z"
+  },
+  {
+    "id": 4,
+    "temperatura": 88,
+    "fechaHora": "2024-07-01T23:46:50.278Z"
+  },
+  {
+    "id": 4,
+    "temperatura": 88,
+    "fechaHora": "2024-07-01T23:46:52.106Z"
+  },
+  {
+    "id": 4,
+    "temperatura": 88,
+    "fechaHora": "2024-07-01T23:46:52.999Z"
+  },
+  {
+    "id": 5,
+    "temperatura": 88,
+    "fechaHora": "2024-07-01T23:46:54.674Z"
+  },
+  {
+    "id": 5,
+    "temperatura": 88,
+    "fechaHora": "2024-07-01T23:46:55.489Z"
+  },
+  {
+    "id": 2,
+    "temperatura": 88,
+    "fechaHora": "2024-07-01T23:46:59.111Z"
+  },
+  {
+    "id": 1,
+    "temperatura": 12,
+    "fechaHora": "2024-07-01T23:47:11.507Z"
+  },
+  {
+    "id": 1,
+    "temperatura": 67,
+    "fechaHora": "2024-07-01T23:47:14.310Z"
+  },
+  {
+    "id": 1,
+    "temperatura": -20,
+    "fechaHora": "2024-07-01T23:47:16.830Z"
+  },
+  {
+    "id": 1,
+    "temperatura": -20,
+    "fechaHora": "2024-07-01T23:47:17.680Z"
+  },
+  {
+    "id": 1,
+    "temperatura": -20,
+    "fechaHora": "2024-07-01T23:47:18.622Z"
+  },
+  {
+    "id": 1,
+    "temperatura": 8,
+    "fechaHora": "2024-07-01T23:47:23.532Z"
+  },
+  {
+    "id": 1,
+    "temperatura": 78,
+    "fechaHora": "2024-07-01T23:47:25.519Z"
+  },
+  {
+    "id": 1,
+    "temperatura": 7,
+    "fechaHora": "2024-07-01T23:47:28.147Z"
+  },
+  {
+    "id": 1,
+    "temperatura": 7,
+    "fechaHora": "2024-07-01T23:47:28.889Z"
+  },
+  {
+    "id": 1,
+    "temperatura": 76,
+    "fechaHora": "2024-07-01T23:47:31.293Z"
+  },
+  {
+    "id": 1,
+    "temperatura": 12,
+    "fechaHora": "2024-07-01T23:47:33.912Z"
+  }
+]
